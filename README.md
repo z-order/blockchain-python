@@ -16,7 +16,14 @@ DeFi, NFT 등을 직접 자신의 블록체인 네트워크 상에 만들 수 �
 ### 🖥️ 기술 스택  
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 
-목차
+<br><br>
+
+# 파이썬으로 공부하는 블록체인
+
+파이썬으로 구현하는 웹 3.0 |  파이썬으로 블록체인 네트워크 만들기
+
+## 목차
+
 머리말
 
 CHAPTER 01. 블록체인 알아보기
